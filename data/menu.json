@@ -1,0 +1,332 @@
+[
+  {
+    "id": 0,
+    "title": "Classic Hamburger",
+    "subtitle": "Classic Hamburger description",
+    "imageUrl": "assets/images/classic_hamburger.jpg",
+    "price": "7.35 $",
+    "category": "FastFood"
+  },
+  {
+    "id": 1,
+    "title": "Large Pizza",
+    "subtitle": "Large Pizza description",
+    "imageUrl": "assets/images/large_pizza.jpg",
+    "price": "14.00 $",
+    "category": "FastFood"
+  },
+  {
+    "id": 2,
+    "title": "Mexican Burger",
+    "subtitle": "Mexican Burger description",
+    "imageUrl": "assets/images/mexican_hamburger.jpg",
+    "price": "10.00 $",
+    "category": "FastFood"
+  },
+  {
+    "id": 3,
+    "title": "Mix Pizza",
+    "subtitle": "Mix Pizza",
+    "imageUrl": "assets/images/mix_pizza.jpg",
+    "price": "6.00 $",
+    "category": "FastFood"
+  },
+  {
+    "id": 4,
+    "title": "Classic Pizza",
+    "subtitle": "Classic Pizza description",
+    "imageUrl": "assets/images/pizza.jpg",
+    "price": "5.20 $",
+    "category": "FastFood"
+  },
+  {
+    "id": 5,
+    "title": "Classic Pizza",
+    "subtitle": "Classic Pizza description",
+    "imageUrl": "assets/images/pizza.jpg",
+    "price": "5.20 $",
+    "category": "FastFood"
+  },
+  {
+    "id": 6,
+    "title": "Classic Pizza",
+    "subtitle": "Classic Pizza description",
+    "imageUrl": "assets/images/pizza.jpg",
+    "price": "5.20 $",
+    "category": "FastFood"
+  },
+  {
+    "id": 7,
+    "title": "Classic Pizza",
+    "subtitle": "Classic Pizza description",
+    "imageUrl": "assets/images/pizza.jpg",
+    "price": "5.20 $",
+    "category": "FastFood"
+  },
+  {
+    "id": 8,
+    "title": "Classic Pizza",
+    "subtitle": "Classic Pizza description",
+    "imageUrl": "assets/images/pizza.jpg",
+    "price": "5.20 $",
+    "category": "FastFood"
+  },
+  {
+    "id": 9,
+    "title": "Classic Pizza",
+    "subtitle": "Classic Pizza description",
+    "imageUrl": "assets/images/pizza.jpg",
+    "price": "5.20 $",
+    "category": "FastFood"
+  },
+  {
+    "id": 10,
+    "title": "Classic Pizza",
+    "subtitle": "Classic Pizza description",
+    "imageUrl": "assets/images/pizza.jpg",
+    "price": "5.20 $",
+    "category": "FastFood"
+  },
+  {
+    "id": 11,
+    "title": "Roll Sushi",
+    "subtitle": "Roll Sushi description",
+    "imageUrl": "assets/images/rollsushi.jpg",
+    "price": "6.80 $",
+    "category": "Sushi"
+  },
+  {
+    "id": 12,
+    "title": "Anago Sushi",
+    "subtitle": "Anago Sushi description",
+    "imageUrl": "assets/images/anago.jpg",
+    "price": "12.80 $",
+    "category": "Sushi"
+  },
+  {
+    "id": 13,
+    "title": "Hamachi Sushi",
+    "subtitle": "Hamachi Sushi description",
+    "imageUrl": "assets/images/hamachi.jpg",
+    "price": "13.40 $",
+    "category": "Sushi"
+  },
+  {
+    "id": 14,
+    "title": "Ikura Sushi",
+    "subtitle": "Ikura Sushi description",
+    "imageUrl": "assets/images/ikura.jpg",
+    "price": "16.50 $",
+    "category": "Sushi"
+  },
+  {
+    "id": 15,
+    "title": "Maguro Sushi",
+    "subtitle": "Maguro Sushi description",
+    "imageUrl": "assets/images/rollsushi.jpg",
+    "price": "13.70 $",
+    "category": "Sushi"
+  },
+  {
+    "id": 16,
+    "title": "Sake Sushi",
+    "subtitle": "Sake Sushi description",
+    "imageUrl": "assets/images/sake.jpg",
+    "price": "14.80 $",
+    "category": "Sushi"
+  },
+  {
+    "id": 17,
+    "title": "Tamago Sushi",
+    "subtitle": "Tamago Sushi description",
+    "imageUrl": "assets/images/tamago.jpg",
+    "price": "14.50 $",
+    "category": "Sushi"
+  },
+  {
+    "id": 18,
+    "title": "Toro Sushi",
+    "subtitle": "Toro Sushi description",
+    "imageUrl": "assets/images/toro.jpg",
+    "price": "14.50 $",
+    "category": "Sushi"
+  },
+  {
+    "id": 19,
+    "title": "Unagi Sushi",
+    "subtitle": "Unagi Sushi description",
+    "imageUrl": "assets/images/unagi.jpg",
+    "price": "12.00 $",
+    "category": "Sushi"
+  },
+  {
+    "id": 20,
+    "title": "Uni Sushi",
+    "subtitle": "Uni description",
+    "imageUrl": "assets/images/uni.jpg",
+    "price": "11.40 $",
+    "category": "Sushi"
+  },
+
+  {
+    "id": 21,
+    "title": "Tomato Soup",
+    "subtitle": "Tomato Soup description",
+    "imageUrl": "assets/images/tomato_soup.jpg",
+    "price": "3.80 $",
+    "category": "Soup"
+  },
+  {
+    "id": 22,
+    "title": "Chicken Noodle Soup",
+    "subtitle": "Chicken Noodle Soup description",
+    "imageUrl": "assets/images/chicken_noodle_soup.jpg",
+    "price": "4.80 $",
+    "category": "Soup"
+  },
+
+  {
+    "id": 23,
+    "title": "Minestrone Soup",
+    "subtitle": "Minestrone Soup description",
+    "imageUrl": "assets/images/Minestrone_soup.jpg",
+    "price": "5.50 $",
+    "category": "Soup"
+  },
+  {
+    "id": 24,
+    "title": "Mushroom Soup",
+    "subtitle": "Mushroom Soup description",
+    "imageUrl": "assets/images/Mushroom_soup.jpg",
+    "price": "9.60 $",
+    "category": "Soup"
+  },
+  {
+    "id": 25,
+    "title": "Lentil Soup",
+    "subtitle": "Lentil Soup description",
+    "imageUrl": "assets/images/lentil_soup.jpg",
+    "price": "7.50 $",
+    "category": "Soup"
+  },
+  {
+    "id": 26,
+    "title": "Clam chowder Soup",
+    "subtitle": "Clam chowder Soup description",
+    "imageUrl": "assets/images/Clam_chowder_soup.jpg",
+    "price": "12.00 $",
+    "category": "Soup"
+  },
+  {
+    "id": 27,
+    "title": "French onion Soup",
+    "subtitle": "French onion Soup description",
+    "imageUrl": "assets/images/French_onion_soup.jpg",
+    "price": "15.00 $",
+    "category": "Soup"
+  },
+  {
+    "id": 28,
+    "title": "Potato Soup",
+    "subtitle": "Potato Soup description",
+    "imageUrl": "assets/images/Potato_soup.jpg",
+    "price": "5.00 $",
+    "category": "Soup"
+  },
+  {
+    "id": 29,
+    "title": "Beef Soup",
+    "subtitle": "Beef Soup description",
+    "imageUrl": "assets/images/Beef_stew.jpg",
+    "price": "20.00 $",
+    "category": "Soup"
+  },
+  {
+    "id": 30,
+    "title": "Split pea Soup",
+    "subtitle": "Split pea Soup description",
+    "imageUrl": "assets/images/Split_soup.jpg",
+    "price": "6.50 $",
+    "category": "Soup"
+  },
+  {
+    "id": 31,
+    "title": "Baklava",
+    "subtitle": "Baklava description",
+    "imageUrl": "assets/images/baklava.png",
+    "price": "10.00 $",
+    "category": "Sweet"
+  },
+  {
+    "id": 32,
+    "title": "Asure",
+    "subtitle": "Asure description",
+    "imageUrl": "assets/images/asure.jpg",
+    "price": "8.00 $",
+    "category": "Sweet"
+  },
+  {
+    "id": 33,
+    "title": "Halva",
+    "subtitle": "Halva description",
+    "imageUrl": "assets/images/halva.jpg",
+    "price": "8.50 $",
+    "category": "Sweet"
+  },
+  {
+    "id": 34,
+    "title": "Kadyif",
+    "subtitle": "Kadayif description",
+    "imageUrl": "assets/images/kadayif.jpg",
+    "price": "9.50 $",
+    "category": "Sweet"
+  },
+  {
+    "id": 35,
+    "title": "Kunefe",
+    "subtitle": "Kunefe description",
+    "imageUrl": "assets/images/kunefe.jpg",
+    "price": "5.00 $",
+    "category": "Sweet"
+  },
+  {
+    "id": 36,
+    "title": "Turkish Delight",
+    "subtitle": "Turkish Delight description",
+    "imageUrl": "assets/images/lokum.jpg",
+    "price": "4.50 $",
+    "category": "Sweet"
+  },
+  {
+    "id": 37,
+    "title": "Revani",
+    "subtitle": "Revani description",
+    "imageUrl": "assets/images/revani.jpg",
+    "price": "6.50 $",
+    "category": "Sweet"
+  },
+  {
+    "id": 38,
+    "title": "Supangle",
+    "subtitle": "Supangle description",
+    "imageUrl": "assets/images/supangle.jpg",
+    "price": "11.50 $",
+    "category": "Sweet"
+  },
+  {
+    "id": 39,
+    "title": "Profiterol",
+    "subtitle": "Profiterol description",
+    "imageUrl": "assets/images/profiterol.jpg",
+    "price": "12.00 $",
+    "category": "Sweet"
+  },
+  {
+    "id": 40,
+    "title": "Sutlac",
+    "subtitle": "Sutlac description",
+    "imageUrl": "assets/images/sutlac.jpg",
+    "price": "4.00 $",
+    "category": "Sweet"
+  }
+]

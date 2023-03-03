@@ -1,0 +1,38 @@
+[
+  {
+    "id": 0,
+    "title": "Burger King",
+    "subtitle": "Location A",
+    "imageUrl": "assets/images/burger_king.png"
+  },
+  {
+    "id": 1,
+    "title": "McDonald's",
+    "subtitle": "Location B",
+    "imageUrl": "assets/images/mcdonalds.png"
+  },
+  {
+    "id": 2,
+    "title": "Arby's",
+    "subtitle": "Location C",
+    "imageUrl": "assets/images/arbys.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Pizza Hut",
+    "subtitle": "Location D",
+    "imageUrl": "assets/images/pizzahut.png"
+  },
+  {
+    "id": 4,
+    "title": "Pizza Bulls",
+    "subtitle": "Location E",
+    "imageUrl": "assets/images/pizzabulls.png"
+  },
+  {
+    "id": 5,
+    "title": "Sushico",
+    "subtitle": "Location F",
+    "imageUrl": "assets/images/sushico.jpg"
+  }
+]
